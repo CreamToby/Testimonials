@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/SelfTeach"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
